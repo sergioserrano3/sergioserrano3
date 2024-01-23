@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioserrano3&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"><span>
+ <a href="https://github.com/sergioserrano3"><img height="188em" src="https://github-readme-streak-stats.herokuapp.com/?user=sergioserrano3&theme=radical" alt="fenshan streak stats"/></a>
+ &emsp;
+ <a href="https://github.com/sergioserrano3"><img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioserrano3&layout=compact&theme=radical&langs_count=10" alt="fenshan langs stats"/></a>
+</span></p>
 <!--
 **sergioserrano3/sergioserrano3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
